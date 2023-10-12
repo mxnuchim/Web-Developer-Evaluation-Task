@@ -69,7 +69,7 @@ function VideoPlayer() {
           onTouchEnd={handleSeekTo}
           className="w-full"
         />
-        <div className="flex items-center justify-between gap-5 w-full px-[25%] ">
+        <div className="flex items-center justify-between gap-5 w-full px-4 md:px-[25%]">
           <button
             onClick={() => handleSeek(-10)}
             className="flex flex-col items-center justify-center gap-1"
