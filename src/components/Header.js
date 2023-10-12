@@ -5,7 +5,7 @@ const { hello } = images;
 
 const Header = () => {
   return (
-    <div className="flex flex-col gap-2 px-[20%]">
+    <div className="flex flex-col gap-2 mx-4 md:px-[20%]">
       <div className="flex justify-center items-center gap-2 ">
         <img src={hello} alt="" className="w-10 h-10" />
         <span className="text-xl font-bold capitalize text-center">
