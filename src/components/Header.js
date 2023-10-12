@@ -13,7 +13,7 @@ const Header = () => {
         </span>
       </div>
       <span className="text-lg font-semibold capitalize text-center">
-        This is my submission for the Moment Web Developer Evaluation Task
+        This is my submission for the Web Developer Evaluation Task
       </span>
     </div>
   );

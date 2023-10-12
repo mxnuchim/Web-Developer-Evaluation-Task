@@ -7,7 +7,7 @@ This project is a simple web-based video player that uses HLS to stream video co
 Unfortunately, the initial video URL located [Here](https://d3ukqbhrqb4xnt.cloudfront.net/share_videos/6e95f9a732a74664a4982adf4b808500/e8ffab99-e494-495d-8b21-787e95f9672d/211115200114.m3u8) seemed to be empty and did not return any data. So I have used a different random URL of the same format to complete this task to the best of my ability
 
 The video content used for this player is located at the following URL:
-[Video URL](https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8)
+[Video URL](https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8)
 
 ## Features
 

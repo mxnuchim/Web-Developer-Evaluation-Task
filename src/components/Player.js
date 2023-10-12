@@ -34,10 +34,10 @@ function VideoPlayer() {
   };
 
   return (
-    <div className="h-auto w-full p-5">
+    <div className="h-auto w-full p-4 md:p-24">
       <ReactPlayer
         ref={playerRef}
-        url="https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+        url="https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
         playing={isPlaying}
         controls={false}
         width="100%"
